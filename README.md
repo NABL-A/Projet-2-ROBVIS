@@ -2,7 +2,7 @@
 
 Le Projet 2 de l'UV ROBVIS met en avant le fonctionnement du bras robotique UR5 à travers une simulation sur le logiciel CoppeliaSim.
 
-![Robot UR5](/doc/IMG_7666.jpg).
+![Robot UR5](/doc/IMG_7666.jpg)
 
 ### Contexte
 
