@@ -3,7 +3,7 @@
 Vidéo présentant le projet : https://youtu.be/-7pkke26Eo4
 
 
-
+### Projet réalisé par : Alban CASELLA, Alexis MANUEL et Sofiane OSMANI
 
 
 Le Projet 2 de l'UV ROBVIS met en avant le fonctionnement du bras robotique UR5 à travers une simulation sur le logiciel CoppeliaSim.
